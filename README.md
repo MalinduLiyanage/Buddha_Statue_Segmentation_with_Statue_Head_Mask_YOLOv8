@@ -4,7 +4,7 @@ This is a combination of a segmentation model and a detection model trained on s
 <h3>Features</h3>
 <ul>
   <li><a href="https://github.com/MalinduLiyanage/Buddha_Statue_Segmentation_YOLOv8" target="_blank">Pretrained Segmentation Model</a></li>
-  <li><a href="https://github.com/MalinduLiyanage/Buddha_Statue_Detection_YOLOv8" target="_blank">Pretrained Head Detection Model</a></li>
+  <li><a href="https://github.com/MalinduLiyanage/Buddha_Statue_Head-Body_Detection_YOLOv8/tree/master" target="_blank">Pretrained Head Detection Model</a></li>
   <li>Any size input</li>
   <li>Output can be changed (Default : 256x256)</li>
   <li>Uses YOLO v8</li>
